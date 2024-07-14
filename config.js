@@ -16,7 +16,7 @@ const users = [
     username: "여우연",
     company: "None",
     position: "None",
-    img: "Yoo117/weniv_blog/img/0.jpg",
+    img: "img/0.png",
   },
 ];
 
