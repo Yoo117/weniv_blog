@@ -16,7 +16,7 @@ const users = [
     username: "여우연",
     company: "None",
     position: "None",
-    img: "img/user/profile-licat.png",
+    img: "img/0.jpg",
   },
 ];
 
